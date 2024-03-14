@@ -1,0 +1,11 @@
+.skills{
+    transition: var(--transition) !important;
+    background-color: var(--even-section-color);
+    h2{
+        color: var(--main-color);
+        font-size: clamp(30px , 2vw , 50px);
+    }
+    .skillTitle{
+        color: var(--font-color);
+    }
+}

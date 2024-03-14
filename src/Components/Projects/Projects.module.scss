@@ -1,0 +1,45 @@
+.projects {
+    background-color: var(--odd-section-color);
+    transition: var(--transition) !important;
+
+    .card {
+        border: 1px solid #bcbdbe93;
+        padding: 0;
+        transition: var(--transition) !important;
+        border-radius: 15px;
+
+        img {
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
+        }
+        &:hover{
+            transform: scale(1.01);
+        }
+    }
+
+    h2 {
+        color: var(--main-color);
+    }
+
+    h3,
+    p,
+    i {
+        color: var(--font-color);
+    }
+
+    .cardFooter {
+        padding: 10px;
+        border-top: 1px solid #dce4ee;
+
+        a {
+            color: var(--font-color);
+            text-decoration: underline;
+
+            &:hover {
+                color: var(--font-color);
+                text-decoration: underline;
+                cursor: pointer;
+            }
+        }
+    }
+}

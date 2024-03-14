@@ -1,0 +1,41 @@
+.footer {
+    background-color: var(--odd-section-color);
+    transition: var(--transition) !important;
+
+    .header {
+        color: var(--font-color) !important;
+        transition: var(--transition);
+
+        .firstChild,
+        .lastChild {
+            color: var(--main-color);
+            font-weight: 700;
+        }
+
+        &::before,
+        &::after {
+            content: "<";
+            color: var(--main-color);
+            font-weight: 700;
+        }
+
+        &::after {
+            content: ">";
+        }
+    }
+
+    .footerContent {
+        border-top: 1px solid var(--font-color);
+    }
+
+    .rightfooter {
+        color: var(--font-color);
+        transition: var(--transition) !important;
+
+        a {
+            color: var(--font-color);
+            text-decoration: none;
+
+        }
+    }
+}

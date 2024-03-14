@@ -1,0 +1,13 @@
+.home {
+    background-color: var(--odd-section-color);
+    min-height: 80vh;
+    color: var(--font-color);
+    transition: var(--transition) !important;
+}
+.downloadBtn{
+    background-color: var(--main-color);
+    color: #fffbfb;
+    border: none;
+    padding: 6px .625rem;
+    border-radius: 8px;
+}
