@@ -12,7 +12,8 @@
             border-top-left-radius: 15px;
             border-top-right-radius: 15px;
         }
-        &:hover{
+
+        &:hover {
             transform: scale(1.01);
         }
     }
@@ -41,5 +42,13 @@
                 cursor: pointer;
             }
         }
+    }
+
+    .tab {
+        color: var(--font-color);
+        font-weight: 700;
+    }
+    .activeTab{
+        color: var(--main-color) !important;
     }
 }
