@@ -14,6 +14,7 @@ import weather from "../../Imgs/weatherpng.png";
 import portfolio from "../../Imgs/portfoliopng.png";
 import freshcart from "../../Imgs/freshcart.png";
 import todo from "../../Imgs/todo.png";
+import WebAssignment from "../../Imgs/WebAssignment.png";
 
 export default function Projects() {
   const allProjects = [
@@ -97,6 +98,15 @@ export default function Projects() {
       demo: "https://mahmouds10.github.io/Todo-List/",
       github: "https://github.com/mahmouds10/Todo-List",
       base: "React.JS",
+    },
+    {
+      img:WebAssignment,
+      name: "Registration with backend",
+      description:
+        "A registration website using php backend and mySQL database to manage server side validation and storing data. You need to run a local host and create the database using the provided .sql file. You can also find out about actors who have the same birthday as you or any specified date.",
+      demo: "",
+      github: "https://github.com/mahmouds10/Registration-with-backend",
+      base: "{Vanilla JS",
     },
   ];
 

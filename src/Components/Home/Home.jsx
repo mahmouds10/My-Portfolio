@@ -5,8 +5,8 @@ import { TypeAnimation } from "react-type-animation";
 export default function Home() {
   const downloadResume = () => {
     const link = document.createElement("a");
-    link.href = "My_Resume.pdf";
-    link.download = "My_Resume.pdf";
+    link.href = "MahmoudSayed_Resume.pdf";
+    link.download = "MahmoudSayed_Resume.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
