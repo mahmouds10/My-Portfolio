@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.25a7bda8.css",
-    "main.js": "/My-Portfolio/static/js/main.0af9ca5c.js",
+    "main.js": "/My-Portfolio/static/js/main.df820f00.js",
     "static/js/453.ace21015.chunk.js": "/My-Portfolio/static/js/453.ace21015.chunk.js",
     "static/media/randon-ayah.png": "/My-Portfolio/static/media/randon-ayah.fa854265e58ef310b27a.png",
     "static/media/weatherpng.png": "/My-Portfolio/static/media/weatherpng.174b4d306f7e43e31200.png",
@@ -10,6 +10,7 @@
     "static/media/gamespng.png": "/My-Portfolio/static/media/gamespng.0047c6d11f830df23ec2.png",
     "static/media/fa-solid-900.ttf": "/My-Portfolio/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/authenticationpng.png": "/My-Portfolio/static/media/authenticationpng.8399f14b1caabb287a68.png",
+    "static/media/WebAssignment.png": "/My-Portfolio/static/media/WebAssignment.8633abb5738688464aae.png",
     "static/media/number-converter.png": "/My-Portfolio/static/media/number-converter.9b3c84eb7f5b11da71f0.png",
     "static/media/fa-brands-400.ttf": "/My-Portfolio/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
     "static/media/fa-solid-900.woff2": "/My-Portfolio/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
@@ -35,11 +36,11 @@
     "index.html": "/My-Portfolio/index.html",
     "static/media/npm-svgrepo-com.svg": "/My-Portfolio/static/media/npm-svgrepo-com.6382f0d2f478902a0c833577ae39e927.svg",
     "main.25a7bda8.css.map": "/My-Portfolio/static/css/main.25a7bda8.css.map",
-    "main.0af9ca5c.js.map": "/My-Portfolio/static/js/main.0af9ca5c.js.map",
+    "main.df820f00.js.map": "/My-Portfolio/static/js/main.df820f00.js.map",
     "453.ace21015.chunk.js.map": "/My-Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25a7bda8.css",
-    "static/js/main.0af9ca5c.js"
+    "static/js/main.df820f00.js"
   ]
 }
